@@ -1,0 +1,23 @@
+{
+  "name": "mash",
+  "version": "1.0.0",
+  "description": "\"# 432mashup\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Test\\\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaiWhiley/432mash.git"
+  },
+  "author": "Sai Whiley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaiWhiley/432mash/issues"
+  },
+  "homepage": "https://github.com/SaiWhiley/432mash#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "express-handlebars": "^3.0.0"
+  }
+}
